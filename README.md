@@ -1,3 +1,7 @@
-Hi,
+Dataset scrawled from IMDB website
 
-Please read me
+In this notebook, I will show you how to scrawl data from websites.
+
+
+
+IMDb website
