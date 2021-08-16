@@ -1,5 +1,1 @@
-Movie dataset crawled from IMDB website
-
-In this notebook, I will show you how to scrawl data from websites
-
-IMDB link
+This notebook includes codes of how to crawl data from multi website pages
